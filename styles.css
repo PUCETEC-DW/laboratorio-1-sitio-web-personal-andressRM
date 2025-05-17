@@ -1,0 +1,41 @@
+#quien-soy {
+  background-color: #f4f4f4;
+  color: #222222;
+  padding: 30px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+#quien-soy h2 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+#quien-soy p {
+  font-size: 16px;
+  line-height: 1.5;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#habilidades {
+  background-color: #ffffff;
+  color: #333333;
+  padding: 30px;
+  text-align: center;
+}
+
+#habilidades h2 {
+  font-size: 22px;
+  margin-bottom: 15px;
+}
+
+#habilidades ul {
+  list-style: none;
+  padding: 0;
+}
+
+#habilidades li {
+  font-size: 18px;
+  margin: 10px 0;
+}
