@@ -1,0 +1,78 @@
+#quien-soy {
+  background-color: #3280c9;
+  color: #d6d6d6;
+  padding: 30px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+#quien-soy h2 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+#quien-soy p {
+  font-size: 16px;
+  line-height: 1.5;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#habilidades {
+  background-color: #2f2161;
+  color: #fdf9f9;
+  padding: 30px;
+  text-align: center;
+}
+
+#habilidades h2 {
+  font-size: 22px;
+  margin-bottom: 15px;
+}
+
+#habilidades ul {
+  list-style: none;
+  padding: 0;
+}
+
+#habilidades li {
+  font-size: 18px;
+  margin: 10px 0;
+}
+nav {
+  background-color: #222;
+  padding: 10px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+#inicio {
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  color: white;
+  padding: 60px 20px;
+  text-align: center;
+}
+#perfil {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  object-fit: cover;
+  border: 3px solid white;
+}
